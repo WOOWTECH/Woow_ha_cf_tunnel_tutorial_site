@@ -76,7 +76,7 @@
           <p>從加倉庫、裝 Web GUI、跑 Setup 精靈、完成 Cloudflare 授權，一路帶到 Dashboard、Config、hostname 管理、安全檢查與排錯。每章 10 分鐘。</p>
           <div class="res-actions">
             <a class="btn-pill" href="tutorial.html">線上閱讀 <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#FFFFFF" d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"/></svg></a>
-            <a class="btn-ghost" href="https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site/archive/refs/heads/main.zip"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#3A57C4" d="M5,20H19V18H5M19,9H15V3H9V9H5L12,16L19,9Z"/></svg> 整站 zip</a>
+            <a class="btn-ghost" href="https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site/archive/refs/heads/main.zip"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#3A57C4" d="M5,20H19V18H5M19,9H15V3H9V9H5L12,16L19,9Z"/></svg> 整站 zip</a>
           </div>
         </div>
 
@@ -123,15 +123,15 @@
     <section class="chapter-index" style="margin-top:56px;">
       <h2 class="index-title">相關連結</h2>
       <div class="link-row">
-        <a href="https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_webgui" rel="noopener">Woow HA Cloudflared Web GUI add-on（GitHub）</a>
-        <a href="https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site" rel="noopener">本站原始碼與勘誤</a>
+        <a href="https://github.com/WOOWTECH/Woow_ha_cf_tunnel_webgui" rel="noopener">Woow HA Cloudflared Web GUI add-on（GitHub）</a>
+        <a href="https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site" rel="noopener">本站原始碼與勘誤</a>
         <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/" rel="noopener">Cloudflare Tunnel 官方文件</a>
       </div>
     </section>
 
     <footer class="site-footer">
-      <p>《Home Assistant Cloudflared Web GUI 指南》由 <a href="https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site" rel="noopener">WoowTech</a> 製作，以 <a rel="license noopener" href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant">CC BY 4.0</a> 授權釋出 — 可自由分享與改作，請保留出處。</p>
-      <p class="footer-meta">截圖取自 Home Assistant 與 Cloudflared Web GUI。Home Assistant 與 Cloudflare 為其各自權利人的商標，本站與其無隸屬關係。 · <a href="https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site" rel="noopener">原始碼與勘誤</a></p>
+      <p>《Home Assistant Cloudflared Web GUI 指南》由 <a href="https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site" rel="noopener">WoowTech</a> 製作，以 <a rel="license noopener" href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant">CC BY 4.0</a> 授權釋出 — 可自由分享與改作，請保留出處。</p>
+      <p class="footer-meta">截圖取自 Home Assistant 與 Cloudflared Web GUI。Home Assistant 與 Cloudflare 為其各自權利人的商標，本站與其無隸屬關係。 · <a href="https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site" rel="noopener">原始碼與勘誤</a></p>
     </footer>
   </main>
 </body>
