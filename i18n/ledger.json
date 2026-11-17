@@ -3,10 +3,10 @@
  "units": {
   "en:index.html#main": {
    "status": "complete",
-   "sourceHash": "a6b6b047560d0dfc",
-   "targetHash": "fe30d243b4f910a4",
+   "sourceHash": "59d0dc0b9daa5967",
+   "targetHash": "3a67ff7921b34c40",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-03"
+   "translatedAt": "2026-11-17"
   },
   "en:tutorial.html#main": {
    "status": "complete",
@@ -80,10 +80,10 @@
   },
   "en:ch1_overview.html#sources": {
    "status": "complete",
-   "sourceHash": "abfd01d092f5092f",
-   "targetHash": "e37bf8f6fc919629",
+   "sourceHash": "285e6e5749e0c605",
+   "targetHash": "29cd850b252194ba",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch2_install.html#header": {
    "status": "complete",
@@ -108,10 +108,10 @@
   },
   "en:ch2_install.html#steps": {
    "status": "complete",
-   "sourceHash": "096a33eba0dec7fd",
-   "targetHash": "9f13cca4279c5cd1",
+   "sourceHash": "33a6a186efa2b887",
+   "targetHash": "ea7376242f27cf3d",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch2_install.html#choices": {
    "status": "complete",
@@ -122,10 +122,10 @@
   },
   "en:ch2_install.html#security": {
    "status": "complete",
-   "sourceHash": "2d1ec994f44cb205",
-   "targetHash": "3b6d41f8d0233abb",
+   "sourceHash": "f94c5ff7b7955e4e",
+   "targetHash": "682e11d708637fa0",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch2_install.html#test": {
    "status": "complete",
@@ -150,10 +150,10 @@
   },
   "en:ch2_install.html#sources": {
    "status": "complete",
-   "sourceHash": "e1a3965b327d456e",
-   "targetHash": "2c99c4b16e664c9a",
+   "sourceHash": "0ffe8478a0c2b1c7",
+   "targetHash": "7a34ec55cb35bc60",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch3_first_open.html#header": {
    "status": "complete",
@@ -220,10 +220,10 @@
   },
   "en:ch3_first_open.html#sources": {
    "status": "complete",
-   "sourceHash": "627e1ffdce74221d",
-   "targetHash": "edf601c3de5c9d83",
+   "sourceHash": "f49036c8b0c49518",
+   "targetHash": "71ae844f8bc74e3f",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch4_setup.html#header": {
    "status": "complete",
@@ -290,10 +290,10 @@
   },
   "en:ch4_setup.html#sources": {
    "status": "complete",
-   "sourceHash": "93c174ad173de998",
-   "targetHash": "30f9aa2561817086",
+   "sourceHash": "94adfce22ee46072",
+   "targetHash": "ce23f328160dc72d",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch5_authorize.html#header": {
    "status": "complete",
@@ -360,10 +360,10 @@
   },
   "en:ch5_authorize.html#sources": {
    "status": "complete",
-   "sourceHash": "7f78fab2c31b087e",
-   "targetHash": "9d35f4e36bcb4ab3",
+   "sourceHash": "18a284bf63f2e2e2",
+   "targetHash": "d5e16bce9f764b74",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch6_dashboard.html#header": {
    "status": "complete",
@@ -430,10 +430,10 @@
   },
   "en:ch6_dashboard.html#sources": {
    "status": "complete",
-   "sourceHash": "c6b9b63964a9b9db",
-   "targetHash": "ca789e9a5ddfb367",
+   "sourceHash": "6bc61178c153feb1",
+   "targetHash": "e4559d492f0227c9",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch7_config.html#header": {
    "status": "complete",
@@ -500,10 +500,10 @@
   },
   "en:ch7_config.html#sources": {
    "status": "complete",
-   "sourceHash": "9105e32902902415",
-   "targetHash": "e786f3ffd366c9b6",
+   "sourceHash": "90375a1a24043d5c",
+   "targetHash": "b9d1cdf31182796e",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch8_hostname.html#header": {
    "status": "complete",
@@ -570,10 +570,10 @@
   },
   "en:ch8_hostname.html#sources": {
    "status": "complete",
-   "sourceHash": "07bfbd952973cbb1",
-   "targetHash": "5820c8e622aa540c",
+   "sourceHash": "946f8374541a4c52",
+   "targetHash": "214a2cf0ef2377a3",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch9_additional_hosts.html#header": {
    "status": "complete",
@@ -640,10 +640,10 @@
   },
   "en:ch9_additional_hosts.html#sources": {
    "status": "complete",
-   "sourceHash": "76435c2bfc891699",
-   "targetHash": "9ed6fbff6da97f1a",
+   "sourceHash": "d59372ff2bb58378",
+   "targetHash": "87fac6de51812556",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch10_logs.html#header": {
    "status": "complete",
@@ -710,10 +710,10 @@
   },
   "en:ch10_logs.html#sources": {
    "status": "complete",
-   "sourceHash": "2a5d4b5a8ec7446e",
-   "targetHash": "846d9ad70b3bbfab",
+   "sourceHash": "bc5c1afd416b6f4c",
+   "targetHash": "0af4c67da0a6b541",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch11_security.html#header": {
    "status": "complete",
@@ -780,10 +780,10 @@
   },
   "en:ch11_security.html#sources": {
    "status": "complete",
-   "sourceHash": "6b1f4155051b2f43",
-   "targetHash": "5b9cba6f7501e46e",
+   "sourceHash": "5f4aa5263bc66932",
+   "targetHash": "495560c29763e751",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:ch12_troubleshooting.html#header": {
    "status": "complete",
@@ -850,10 +850,10 @@
   },
   "en:ch12_troubleshooting.html#sources": {
    "status": "complete",
-   "sourceHash": "cbeba62d08e740b7",
-   "targetHash": "8d2ad02e372debb6",
+   "sourceHash": "ede39d0a3c951fdd",
+   "targetHash": "c484a052f25c9644",
    "registeredAt": "2026-09-02",
-   "translatedAt": "2026-09-02"
+   "translatedAt": "2026-11-17"
   },
   "en:sales.html#header": {
    "status": "complete",
