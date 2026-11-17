@@ -5,7 +5,7 @@
     "brand": "Cloudflared Web GUI 指南",
     "subtitle": "不開埠，安全連回家",
     "baseUrl": "https://ha-cloudflare-tunnel-guide.woowtech.io",
-    "repoUrl": "https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site",
+    "repoUrl": "https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site",
     "locale": "zh_TW",
     "description": "12 章繁體中文 Cloudflared Web GUI 教學：從安裝、Setup、Cloudflare 授權、hostname、Dashboard、Config、Logs，到安全與排錯。",
     "ogImage": "assets/screenshots/ch3/01_webgui_dashboard.png",

@@ -5,7 +5,7 @@
     "brand": "Cloudflared Web GUI Guide",
     "subtitle": "No open ports, a safe way home",
     "baseUrl": "https://ha-cloudflare-tunnel-guide.woowtech.io/en",
-    "repoUrl": "https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_tutorial_site",
+    "repoUrl": "https://github.com/WOOWTECH/Woow_ha_cf_tunnel_tutorial_site",
     "locale": "en_US",
     "description": "12-chapter Cloudflared Web GUI guide: install, Setup, Cloudflare authorization, hostname, Dashboard, Config, Logs, security and troubleshooting.",
     "ogImage": "assets/og/ha-cloudflare-tunnel-guide.en.png",

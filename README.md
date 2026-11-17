@@ -4,7 +4,7 @@
 
 這個 repo 是 Cloudflare Tunnel × Home Assistant 的四份資源集中地：
 
-- **教學（`tutorial.html`）** — 12 章繁體中文 [WoowTech Cloudflared Web GUI](https://github.com/WOOWTECH/Woow_ha_cloudflare_tunnel_webgui) 入住教學：安裝、Setup、Cloudflare 授權、hostname、Dashboard、Config、Logs、安全與排錯。
+- **教學（`tutorial.html`）** — 12 章繁體中文 [WoowTech Cloudflared Web GUI](https://github.com/WOOWTECH/Woow_ha_cf_tunnel_webgui) 入住教學：安裝、Setup、Cloudflare 授權、hostname、Dashboard、Config、Logs、安全與排錯。
 - **銷售手冊（`sales.html`）** — WoowTech 兩種 Cloudflare Tunnel 代管方案：HAOS 內建 add-on 代設定，或雲端 PaaS 完整代管（CF Access + Workers + SSO + Analytics）。
 - **提示詞庫（`prompts.html`）** — 40+ 條給 AI agent 用來透過 API/MCP 操作 Cloudflare 的自然語言提示詞，分 8 類。
 - **Skill 手冊（`skills.html`）** — 精選 8 顆與 Cloudflare 相關的 agent skills，加 6 大熱門集合入口與安全守則。
